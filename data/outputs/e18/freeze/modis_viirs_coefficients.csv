@@ -1,0 +1,2 @@
+metric,source_platform,reference_platform,model,training_scale,application,k_day,k_night,k_combined,training_years,excluded_region,training_regions,training_aqua,training_snpp,status
+hotspot_count,Aqua MODIS,S-NPP VIIRS 375 m,ratio,pooled_utc_detections,complete_utc_calendar_month_type_0_firms,6.73297434273044,6.73297434273044,6.73297434273044,2018-2019,western_us,6,211519,1424152,frozen_e18

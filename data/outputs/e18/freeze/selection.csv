@@ -1,0 +1,7 @@
+model,median_monthly_wape,median_improvement_vs_raw,regions_improved,regions_abs_bias_le_20pct,passes_discovery_gate,selected
+raw,0.860657536980219,0.0,0,0,false,false
+ratio,0.23261305030028098,0.628044486679938,9,7,true,true
+l1_day,0.30780016990108455,0.5528573670791344,9,2,false,false
+l1_week,0.24637499836245647,0.6142825386177625,9,6,true,false
+l1_month,0.2442114552588485,0.6164460817213705,9,6,true,false
+ratio_phase,0.23530826178277647,0.6253492751974425,9,7,true,false

@@ -1,0 +1,14 @@
+region,phase,k,method,status,fit_first_year,fit_last_year,control_first_year,control_last_year
+_default,all,1,identity,fallback,,,,
+western_us,D,1,identity,fallback,,,,
+western_us,N,1,identity,fallback,,,,
+western_us,all,1,identity,fallback,,,,
+eastern_us,D,1,identity,fallback,,,,
+eastern_us,N,1,identity,fallback,,,,
+eastern_us,all,1,identity,fallback,,,,
+southern_amazon,D,1,identity,fallback,,,,
+southern_amazon,N,1,identity,fallback,,,,
+southern_amazon,all,1,identity,fallback,,,,
+cerrado,D,1.3790668749,ratio_dn,validated_e9,2012,2016,2017,2020
+cerrado,N,1.82415241154,ratio_dn,validated_e9,2012,2016,2017,2020
+cerrado,all,1.4231737456,ratio_all,validated_e9,2012,2016,2017,2020

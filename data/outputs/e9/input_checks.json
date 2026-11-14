@@ -1,0 +1,62 @@
+{
+  "archives": [
+    {
+      "region": "western_us",
+      "parquet": "parquet/firms.parquet",
+      "bbox": [
+        -125,
+        32,
+        -102,
+        49
+      ],
+      "archive_rows": 3495765,
+      "archive_first": "2012-01-20",
+      "archive_last": "2025-12-31"
+    },
+    {
+      "region": "eastern_us",
+      "parquet": "parquet/regions/eastern_us_2012-01-20_2020-12-31.parquet",
+      "bbox": [
+        -88,
+        32,
+        -76,
+        43
+      ],
+      "archive_rows": 687209,
+      "archive_first": "2012-01-20",
+      "archive_last": "2020-12-31"
+    },
+    {
+      "region": "southern_amazon",
+      "parquet": "parquet/regions/southern_amazon_2012-01-20_2020-12-31.parquet",
+      "bbox": [
+        -65,
+        -13,
+        -51,
+        -3
+      ],
+      "archive_rows": 3345108,
+      "archive_first": "2012-01-20",
+      "archive_last": "2020-12-31"
+    },
+    {
+      "region": "cerrado",
+      "parquet": "parquet/regions/cerrado_2012-01-20_2020-12-31.parquet",
+      "bbox": [
+        -51,
+        -22,
+        -43,
+        -9
+      ],
+      "archive_rows": 2861649,
+      "archive_first": "2012-01-20",
+      "archive_last": "2020-12-31"
+    }
+  ],
+  "boundary": {
+    "shared_meridian_detection_keys": 3,
+    "shared_grid_column": -1641,
+    "grid_column_center_lon": -51.00725188288384,
+    "owner": "southern_amazon"
+  }
+}

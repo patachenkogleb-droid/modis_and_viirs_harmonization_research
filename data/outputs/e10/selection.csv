@@ -1,0 +1,9 @@
+region,mode,selected
+western_us,split,mae_joint_dn
+western_us,total_only,identity
+eastern_us,split,mae_joint_dn
+eastern_us,total_only,mae_all
+southern_amazon,split,mae_joint_dn
+southern_amazon,total_only,mae_all
+cerrado,split,mae_joint_dn
+cerrado,total_only,mae_all

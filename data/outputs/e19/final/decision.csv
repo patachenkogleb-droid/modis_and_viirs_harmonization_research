@@ -1,0 +1,2 @@
+raw_median_wape,e18_median_wape,e19_median_wape,region_wins_vs_raw,region_wins_vs_e18,regions_abs_bias_le_20pct,western_wins_vs_raw,western_wins_vs_e18,western_abs_bias_le_20pct,passes_2020_gate,passes_western_gate,status
+0.860657536980219,0.23261305030028098,0.23530826178277647,9,6,7,5,5,5,true,true,frozen_e19

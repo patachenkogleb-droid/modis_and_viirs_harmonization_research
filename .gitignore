@@ -1,0 +1,15 @@
+.env
+*.env
+.venv/
+__pycache__/
+*.py[cod]
+accel-rs/target/
+replay/
+data/parquet/
+data/archive_download/
+data/raw/
+data/landcover/
+data/outputs/e9/cache/
+data/outputs/e14/raw/
+data/outputs/e14/landcover/
+*.parquet

@@ -1,0 +1,9 @@
+excluded_region,biome,phase,k,aqua_training,snpp_training,uses_phase_fallback,training_years
+western_us,forest,D,4.428043158096946,62468,276611,false,2018-2019
+western_us,forest,N,18.604190202321043,9737,181149,false,2018-2019
+western_us,savanna_shrub,D,5.367989043513429,108794,584005,false,2018-2019
+western_us,savanna_shrub,N,18.7698640389173,16034,300956,false,2018-2019
+western_us,cropland,D,4.243044940385204,13084,55516,false,2018-2019
+western_us,cropland,N,18.7974025974026,770,14474,false,2018-2019
+western_us,other_unknown,D,4.9919362253313935,555,6882,true,2018-2019
+western_us,other_unknown,N,18.82703433766624,77,4559,true,2018-2019

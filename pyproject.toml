@@ -1,0 +1,30 @@
+[project]
+name = "hackathon-playbook"
+version = "0.1.0"
+description = "Reproducible Aqua MODIS and S-NPP VIIRS FRP harmonization experiments"
+requires-python = ">=3.11"
+dependencies = [
+    "duckdb>=1.1",
+    "geopandas>=0.14",
+    "matplotlib>=3.8",
+    "numpy>=1.26",
+    "pandas>=2.2",
+    "psutil>=5.9",
+    "pyarrow>=14",
+    "pyproj>=3.6",
+    "python-dotenv>=1.0",
+    "rasterio>=1.4",
+    "requests>=2.31",
+    "shapely>=2",
+]
+
+[tool.uv]
+package = false
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src", "src.*", "experiments", "experiments.*"]
